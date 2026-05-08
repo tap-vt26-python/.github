@@ -1,6 +1,6 @@
 # Programmering med Python
 ## Kodexempel
-Denna GitHub-organisation innehåller kodexempel från lektionerna i kursen.
+Denna GitHub-organisation innehåller kodexempel från lektionerna i kursen. [Se alla repon](https://github.com/orgs/tap-vt26-python/repositories)
 
 För att se kodexempel:
 + klicka på fliken "Repositories"
